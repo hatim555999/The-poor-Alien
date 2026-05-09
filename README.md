@@ -1,2 +1,2 @@
 # The-poor-Alien
-"لعبة بقاء أركيد سريعة، تم تطويرها بالكامل على نظام Linux Mint باستخدام Clean Code في VS Code. تعتمد اللعبة على Vanilla JS لضمان أداء فائق وسرعة استجابة (60 FPS) دون الحاجة لمكتبات ثقيلة. تجربة فريدة تجمع بين بساطة التصميم ودقة الهندسة البرمجية."
+“A fast-paced arcade survival game, developed entirely on Linux Mint using Clean Code in VS Code. The game relies on Vanilla JS to ensure superior performance and responsiveness (60 FPS) without the need for heavy libraries. A unique experience that combines simplicity of design with precision in software engineering.” If you have any help to offer, please do so.
